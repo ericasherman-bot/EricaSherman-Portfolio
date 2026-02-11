@@ -1,5 +1,15 @@
 ---
 title: "EricaSherman-Portfolio"
+about:
+  template: jolla
+  image: IMG_9694edited.JPG
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/erica-sherman-1197a83aa/
+    - icon: github
+      text: Github
+      href: https://github.com/ericasherman-bot
 ---
 
 This is a Quarto website.
@@ -9,3 +19,8 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+
+## Education
+
+California State University, Monterey Bay \| Marina, CA\
+B.S. in Cellular & Molecular Biology \| 2020 - current
