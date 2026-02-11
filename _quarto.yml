@@ -1,6 +1,6 @@
 project:
   type: website
-
+  output-dir: docs
 website:
   title: "EricaSherman-Portfolio"
   navbar:
@@ -18,4 +18,5 @@ format:
     toc: true
 
 editor: visual
+
 
