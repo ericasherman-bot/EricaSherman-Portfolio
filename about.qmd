@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+About this site
+
+I am a student at California State University of Moneterey Bay. I am a cellular and molecular biology major and minoring in statistics. I hope to be a criminalist after I graduate this fall.
+
+```{r}
+1 + 1
+```
