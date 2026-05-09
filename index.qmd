@@ -2,7 +2,7 @@
 title: "Erica Sherman"
 about:
   template: jolla
-  image: IMG_9694edited.JPG
+  image: githubprofileimage.JPG
   links:
     - icon: linkedin
       text: LinkedIn
