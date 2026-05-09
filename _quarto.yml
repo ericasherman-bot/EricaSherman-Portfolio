@@ -1,8 +1,10 @@
-project:
+
+ project:
   type: website
-output-dir: docs
+  output-dir: docs
+
 website:
-  title: "EricaSherman-Portfolio"
+  title: "Erica Sherman ePortfolio"
   navbar:
     left:
       - href: index.qmd
@@ -12,10 +14,8 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
 
 editor: source
-
- 
