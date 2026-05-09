@@ -7,6 +7,6 @@ website:
   
 format:
   html:
-    theme: cosmo
+    theme: minty
     
 editot: source
