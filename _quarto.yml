@@ -2,11 +2,11 @@ project:
   type: website
   output-dir: docs
   
-  website:
-  title: "Erica Sherman's ePortfolio"
+website:
+  title: "EricaSherman-Portfolio"
   
-  format:
+format:
   html:
     theme: minty
     
-  editor: source
+editot: source
