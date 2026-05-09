@@ -9,7 +9,7 @@ about:
       href: https://www.linkedin.com/in/erica-sherman-1197a83aa/
     - icon: github
       text: Github
-      href: https://github.com/ericasherman-bot
+      href: https://github.com/ericasherman-bot/EricaSherman-Portfolio.git
 ---
 
 
