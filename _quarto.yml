@@ -14,7 +14,7 @@ website:
         text: "Home"
       - href: about.qmd
         text: "About Me"
-      - href: final_projectqmd.qmd
+      - href: Portfolio-project/final_projectqmd.qmd
         text: "Portfolio Project"
         
 format:
