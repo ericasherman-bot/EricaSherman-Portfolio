@@ -1,11 +1,14 @@
 ---
 title: "TV Series Final Project"
 format: html
+  embed-resources: true
 editor: visual
 execute: 
   eval: false
   echo: false
   warning: false
+  message: false
+  
 ---
 
 ```{r}
