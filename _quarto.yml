@@ -10,15 +10,17 @@ website:
   title: "Erica Sherman's ePortfolio"
   navbar:
     left:
-      - text: "Home"
-        href: index.qmd
-      - text: "About Me"
-        href: about.qmd
-      - text: "Portfolio Project"
-        href: Portfolio-project/final_projectqmd.qmd
-
+      - href: index.qmd
+        text: "Home"
+      - href: about.qmd
+        text: "About Me"
+      - href: Portfolio-project/final_projectqmd.qmd
+        text: "Example Project"
+        
 format:
   html:
     theme: minty
-    
+    css: styles.css
+    toc: true
+
 editor: visual
