@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
+    - about.qmd
+    - Portfolio-project/final_projectqmd.qmd
   
 website:
   title: "Erica Sherman's ePortfolio"
